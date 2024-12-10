@@ -1,2 +1,2 @@
-# Schueler-Rat-Blog
+# Schüler-Rat-Blog
 This is for my School
